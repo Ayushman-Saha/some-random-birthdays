@@ -1,3 +1,16 @@
 html {
     scroll-behavior: smooth;
   }
+
+  #wish {
+    background-image: url("assets/images/bd_back.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+
+  #image {
+    width: 450px;
+    height: 600px;
+    border-radius: 60%;
+    vertical-align: middle;
+  }
